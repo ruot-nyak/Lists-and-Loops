@@ -1,6 +1,5 @@
 songs = ["ROCKSTAR", "Do It", "For The Night"]
-#I know that the index starts at one and that "ROCKSTAR" is 0 and "For The Night"
-#  is 2 but when I ran it wasn't giving me what I wanted
+
 print(songs[0:3])
 
 print(songs[1:3])
